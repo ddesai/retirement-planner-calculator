@@ -1,0 +1,17 @@
+# Initialize git repository
+git init
+
+# Add all project files
+git add .
+
+# Commit code
+git commit -m "Initial commit: retirement planner calculator"
+
+# Add GitHub remote (replace <your-username> with your GitHub handle)
+git remote add origin git@github.com:ddesai/retirement-planner-calculator.git
+# or HTTPS:
+# git remote add origin https://github.com/<your-username>/retirement-planner-calculator.git
+
+# Push main branch to GitHub
+git branch -M main
+git push -u origin main
