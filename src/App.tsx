@@ -15,7 +15,7 @@ function App() {
           <div className="flex flex-wrap items-center justify-between gap-3">
             <div>
               <h1 className="text-xl font-semibold tracking-tight text-slate-50 sm:text-2xl">
-                Retirement Planning &amp; Tax Strategy Calculator
+                Darshan&apos;s Retirement Planning &amp; Tax Strategy Calculator
               </h1>
               <p className="mt-1 max-w-3xl text-xs text-slate-400 sm:text-sm">
                 A simple, interactive dashboard to estimate retirement income needs, savings projections, investment
